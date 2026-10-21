@@ -31,7 +31,7 @@ celery==5.6.2
     #   -r requirements/base.in
     #   django-structlog
     #   flower
-certifi==2026.1.4
+certifi==2026.10.19
     # via
     #   elastic-apm
     #   requests
@@ -243,7 +243,7 @@ orderedmultidict==1.0.2
     # via furl
 packaging==26.0
     # via kombu
-pillow==12.3.0
+pillow==13.0.0
     # via -r requirements/base.in
 polib==1.2.0
     # via django-rosetta
